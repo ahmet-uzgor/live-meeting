@@ -101,6 +101,6 @@ body {
   color: black;
 }
 
-.unmute {
+.unmute, .stop {
   color: #eb534b;
 }

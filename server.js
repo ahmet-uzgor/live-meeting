@@ -29,4 +29,4 @@ io.attach(server);
 // routes
 app.use('/', indexRouter);
 
-server.listen(3023)
+server.listen(process.env.PORT || 3023)
